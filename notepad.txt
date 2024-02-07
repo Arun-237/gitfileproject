@@ -1,0 +1,5 @@
+this is a python
+int a,b,c
+c = a*b
+print c
+this project is about multiplication of two numbers
